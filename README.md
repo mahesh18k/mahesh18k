@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshkunchala18&label=Profile%20views&color=0e75b6&style=flat" alt="maheshkunchala18" /> </p>
 
-- 🔭 I’m currently working on [BlogVerse](https://github.com/MaheshKunchala18/blogverse-frontend)
+- 🔭 I’m currently working on [EliteMart](https://github.com/MaheshKunchala18/elitemart-frontend)
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaheshKunchala18/](https://github.com/MaheshKunchala18/)
 
-- 📝 I regularly write articles on [https://github.com](https://github.com)
+<!-- - 📝 I regularly write articles on [https://github.com](https://github.com) -->
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
