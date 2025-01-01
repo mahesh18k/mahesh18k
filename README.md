@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MaheshKunchala18/](https://github.com/MaheshKunchala18/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/MaheshKunchala18/)
 
 <!-- - 📝 I regularly write articles on [https://github.com](https://github.com) -->
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
-- 📄 Know about my experiences [https://github.com](https://github.com)
+- 📄 Know about my experiences [Portfolio](https://mahesh-kunchala.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
