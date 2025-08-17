@@ -4,13 +4,13 @@
 <h3 align="center">A passionate coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshkunchala18&label=Profile%20views&color=0e75b6&style=flat" alt="maheshkunchala18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh18k&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh18k" /> </p>
 
-- 🔭 I’m currently working on [EliteMart](https://github.com/MaheshKunchala18/elitemart-frontend)
+- 🔭 I’m currently working on [EliteMart](https://github.com/mahesh18k/elitemart-frontend)
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/MaheshKunchala18/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/mahesh18k/)
 
 <!-- - 📝 I regularly write articles on [https://github.com](https://github.com) -->
 
@@ -89,8 +89,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshkunchala18&show_icons=true&locale=en&layout=compact" alt="maheshkunchala18" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh18k&show_icons=true&locale=en&layout=compact" alt="mahesh18k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshkunchala18&show_icons=true&locale=en" alt="maheshkunchala18" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh18k&show_icons=true&locale=en" alt="mahesh18k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshkunchala18&" alt="maheshkunchala18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh18k&" alt="mahesh18k" /></p>
