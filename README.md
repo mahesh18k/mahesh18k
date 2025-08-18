@@ -1,22 +1,23 @@
-[![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)](https://github.com)
+<!-- [![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)](https://github.com) -->
 
 <h1 align="center">Hi 👋, I'm Mahesh Kunchala</h1>
 <h3 align="center">A passionate coder from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh18k&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh18k" /> </p>
+<!-- <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" /> -->
 
-- 🔭 I’m currently working on [EliteMart](https://github.com/mahesh18k/elitemart-frontend)
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh18k&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh18k" /> </p> -->
 
-- 🌱 I’m currently learning **MERN Stack**
+<!-- - 🔭 I’m currently working on [EliteMart](https://github.com/mahesh18k/elitemart-frontend) -->
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/mahesh18k/)
+<!-- - 🌱 I’m currently learning **MERN Stack** -->
+
+<!-- - 👨‍💻 All of my projects are available at [Github](https://github.com/mahesh18k/) -->
 
 <!-- - 📝 I regularly write articles on [https://github.com](https://github.com) -->
 
-- 💬 Ask me about **Data Structures and Algorithms**
+<!-- - 💬 Ask me about **Data Structures and Algorithms** -->
 
-- 📄 Know about my experiences [Portfolio](https://mahesh-kunchala.netlify.app/)
+<!-- - 📄 Know about my experiences [Portfolio](https://mahesh-kunchala.netlify.app/) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
